@@ -1,2 +1,0 @@
-# vpnstats
-Credits to daybreakersx
